@@ -1,0 +1,14 @@
+.highlight{
+    background:yellow;
+    padding:2px 3px;
+}
+
+.error{
+    background:red;
+    color:white;
+}
+
+.letter-highlight{
+    background:orange;
+    padding:2px;
+}
